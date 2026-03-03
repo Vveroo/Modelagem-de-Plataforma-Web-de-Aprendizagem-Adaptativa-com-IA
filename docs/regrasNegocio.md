@@ -1,9 +1,9 @@
 # Regras de Negócio
-1. O aluno deve possuir apenas uma Área de aprendizado ativa por vez.
-2. O aluno pode selecionar apenas um Nível de conhecimento ativo (Iniciante, Intermediário ou Avançado).
-3. O Tempo de estudo semanal deve respeitar os limites mínimo e máximo definidos pelo sistema.
-4. As recomendações exibidas em “O que estudar hoje” devem estar alinhadas à Área de aprendizado selecionada no perfil.
-5. As recomendações devem priorizar conteúdos conforme a Preferência de aprendizado definida (Vídeos, Prática ou Leitura).
-6. O Progresso (%) só pode ser incrementado mediante realização efetiva de atividades de estudo.
-7. O XP deve ser incrementado exclusivamente por ações relacionadas ao estudo, não podendo ser reduzido por navegação comum.
-8. O Streak (dias consecutivos) só deve ser incrementado quando houver registro de atividade de estudo no dia; caso contrário, deve ser reiniciado.
+1. Cada usuário deve possuir um e-mail único para cadastro no sistema.
+2. O aluno deve realizar a Avaliação de Nível antes de iniciar sua primeira trilha.
+3. O nível do aluno deve ser determinado com base na pontuação obtida na Avaliação de Nível.
+4. Uma trilha de aprendizagem deve estar associada a uma única área de aprendizado.
+5. Um exercício objetivo deve possuir pelo menos uma alternativa correta.
+6. O progresso (%) do aluno só pode ser incrementado mediante conclusão válida de aula ou exercício.
+7. O streak só é incrementado quando houver atividade registrada no dia corrente.
+8. O XP é acumulativo e não pode ser reduzido por ações comuns do usuário.
